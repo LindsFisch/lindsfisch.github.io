@@ -17,7 +17,7 @@ h1 {
   margin: 0;
   margin-bottom: 20px;
   font-size: 28px;
-  color: #eee;
+  color: #D96459;
   text-align: center;
   background: #333;
 }
@@ -27,7 +27,8 @@ h2 {
 }
 
 a {
-  color: #d21034;
+  color: #8C4646;
+  text-decoration: none;
 }
 
 .container {
@@ -52,4 +53,6 @@ a {
 #bio-image {
   height: 200px;
   margin-right: 20px;
+  border-radius: 70px;
+  border: 10px solid #588c7e;
 }
